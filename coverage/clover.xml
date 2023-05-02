@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1682941261934" clover="3.2.0">
+  <project timestamp="1682941261934" name="All files">
+    <metrics statements="41" coveredstatements="23" conditionals="15" coveredconditionals="8" methods="9" coveredmethods="5" elements="65" coveredelements="36" complexity="0" loc="41" ncloc="41" packages="6" files="9" classes="9"/>
+    <package name="shared.constants">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="AppMode.const.ts" path="C:\Users\glamb\OneDrive\Рабочий стол\constructor-calculator\src\shared\constants\AppMode.const.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="DndTypes.const.ts" path="C:\Users\glamb\OneDrive\Рабочий стол\constructor-calculator\src\shared\constants\DndTypes.const.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="Operators.const.ts" path="C:\Users\glamb\OneDrive\Рабочий стол\constructor-calculator\src\shared\constants\Operators.const.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="index.ts" path="C:\Users\glamb\OneDrive\Рабочий стол\constructor-calculator\src\shared\constants\index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="shared.utils.calculator-operations">
+      <metrics statements="7" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="1"/>
+      <file name="calculatorOperations.ts" path="C:\Users\glamb\OneDrive\Рабочий стол\constructor-calculator\src\shared\utils\calculator-operations\calculatorOperations.ts">
+        <metrics statements="7" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="shared.utils.get-fixed-number">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="getFixedNumber.ts" path="C:\Users\glamb\OneDrive\Рабочий стол\constructor-calculator\src\shared\utils\get-fixed-number\getFixedNumber.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="shared.utils.get-value-with-comma">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="getValueWithComma.ts" path="C:\Users\glamb\OneDrive\Рабочий стол\constructor-calculator\src\shared\utils\get-value-with-comma\getValueWithComma.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="shared.utils.is-zero-division">
+      <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="isZeroDivision.ts" path="C:\Users\glamb\OneDrive\Рабочий стол\constructor-calculator\src\shared\utils\is-zero-division\isZeroDivision.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="store.slices.calculator">
+      <metrics statements="28" coveredstatements="15" conditionals="10" coveredconditionals="7" methods="2" coveredmethods="1"/>
+      <file name="calculator.slice.ts" path="C:\Users\glamb\OneDrive\Рабочий стол\constructor-calculator\src\store\slices\calculator\calculator.slice.ts">
+        <metrics statements="28" coveredstatements="15" conditionals="10" coveredconditionals="7" methods="2" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="cond" truecount="3" falsecount="1"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="1" type="cond" truecount="3" falsecount="1"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="36" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="67" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
